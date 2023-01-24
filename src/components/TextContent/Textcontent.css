@@ -1,0 +1,12 @@
+.textcontent-wrapper{
+    max-width: 1190px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.textcontent-wrapper p{
+    font-size: 30px;
+    text-align: start;
+    color: #5e6063;
+}
